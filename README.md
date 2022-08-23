@@ -46,7 +46,4 @@
 
 
 
-[twitter]: https://twitter.com/deymadhav
-[youtube]: https://www.youtube.com/user/madhavendradey69
-[instagram]: https://instagram.com/madhav_dey
-[linkedin]: https://www.linkedin.com/in/madhavendra-dey-77a96912b
+[linkedin]: https://www.linkedin.com/in/hardik-work
