@@ -1,7 +1,9 @@
 ### Hi there, I'm Hardik. 👋
 ----------------------------------------------
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deymadhav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeymadhav&screen_name=deymadhav)
+<p align="center">
+<a href="https://www.linkedin.com/in/hardik-work"><img src="https://img.shields.io/badge/-Hardik%20Bhandari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ## I'm a Student, Developer, and Thinker !!
 
