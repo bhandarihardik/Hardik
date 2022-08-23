@@ -1,4 +1,4 @@
-### Hi there, I'm Maddy - aka Madhavendra Dey. 👋
+### Hi there, I'm Hardik. 👋
 ----------------------------------------------
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/deymadhav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeymadhav&screen_name=deymadhav)
@@ -16,10 +16,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Madhavendra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Madhavendra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Madhavendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Madhavendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Hardik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
